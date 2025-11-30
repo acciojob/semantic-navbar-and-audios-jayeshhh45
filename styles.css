@@ -1,14 +1,8 @@
 
-/* Your CSS Code here. */
-/* Reset some default spacing */
 body {
     margin: 20px;
     font-family: Georgia, serif;
 }
-
-/* ---------------------------
-   NAVBAR STYLING
----------------------------- */
 nav ul {
     list-style: none;
     padding: 0;
@@ -27,18 +21,10 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
-
-/* ---------------------------
-   HEADING
----------------------------- */
 h1 {
     font-size: 40px;
     margin-bottom: 20px;
 }
-
-/* ---------------------------
-   AUDIO PLAYER STYLING
----------------------------- */
 audio {
     width: 40%;
     margin: 15px 20px 15px 0;
